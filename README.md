@@ -4,8 +4,9 @@ Matricula: (2024-2910).
 
 Descricion.
 En este proyecto lo que podimos ver es como podemos hacer un registro de notas para una escuela utilizando arreglos.
+
 Que es un arreglo?
-un arreglo o "array", es un elemento muy utilizado en programcion que sirve para alamcenar datos.
+un arreglo o "array", es un elemento muy utilizado en programcion que sirve para alamacenar datos.
 
 Funcion del programa.
 . Se le pide al usuario la cantidad de estudiantes (max 20).
