@@ -17,11 +17,16 @@ En mi proyecto los arreglos me sirvieron para ir almacenando las notas de cada e
 Funcion del programa.
 
 . Se le pide al usuario la cantidad de estudiantes (max 20).
+
 . Se introducen 4 calificaciones por cada uno de ellos (puntaje entre 0 - 100).
 Y ya lo que muestra el programa es lo siguiente:
+
 . Te pide la cantidad de estudiante dentro del rango de 20 solamente, si te pasas o pones numeros negativos de te sale un mensaje dandote la instruccion de que sigas el rango pautado.
+
 . pones la cantidad de estudiantes con sus notas.
+
 . el programa te pone un resultado con las 4 notas y el promedio de cada uno de ellos debajo.
+
 . y luego al final te sale los estudiantes aprobados, los reprobados y los de nota mas alta y mas baja.
 
 Ejecucion del programa en la terminal.
