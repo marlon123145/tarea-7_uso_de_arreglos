@@ -21,7 +21,7 @@ Funcion del programa.
 . Se introducen 4 calificaciones por cada uno de ellos (puntaje entre 0 - 100).
 Y ya lo que muestra el programa es lo siguiente:
 
-. Te pide la cantidad de estudiante dentro del rango de 20 solamente, si te pasas o pones numeros negativos de te sale un mensaje dandote la instruccion de que sigas el rango pautado.
+. Te pide la cantidad de estudiante dentro del rango de 20 solamente, si te pasas o pones numeros negativos te sale un mensaje dandote la instruccion de que sigas el rango pautado.
 
 . pones la cantidad de estudiantes con sus notas.
 
