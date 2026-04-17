@@ -13,6 +13,7 @@ Que es un arreglo?
 un arreglo o "array", es un elemento muy utilizado en programcion que sirve para alamacenar datos.
 
 Funcion del programa.
+
 . Se le pide al usuario la cantidad de estudiantes (max 20).
 . Se introducen 4 calificaciones por cada uno de ellos (puntaje entre 0 - 100).
 Y ya lo que muestra el programa es lo siguiente:
